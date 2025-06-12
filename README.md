@@ -40,6 +40,12 @@ A simple web application that allows users to search for meals and view their de
 
 ---
 
+## Live Demo
+
+Check out the live app here: [https://nirob-barman.github.io/MealMate/](https://nirob-barman.github.io/MealMate/)
+
+---
+
 ## File Structure
 
 ```
